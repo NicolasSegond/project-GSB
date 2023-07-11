@@ -1,0 +1,13 @@
+Validateur : validateur@validateur.fr, mot de passe : Validateur123456*
+
+Medecin : contactgsb9@gmail, mot de passe : Admin123456*
+	medecin@medecin.fr, mot de passe: Medecin123456*
+
+Admin : admin@admin.fr, mot de passe : Admin123456*
+
+Chef de produit : chef@chef.com, mot de passe : Chef123456*
+
+Modérateur : modo@modo.fr, mot de passe : Modo123456*
+
+NB : pour les comptes fictifs prendre le code dans la base de donnée pour se connecter.
+
